@@ -9,6 +9,7 @@ Main interface to the code:
     SIMILAR = 0
     OPPOSITE = 1
     NONE = 2
-    id debud mode is set to true, this method will also print out the path.
+
+If debug mode is set to true, this method will also print out the path between the two nodes.
 
 Check the example file main_word_similarity.py for usage
